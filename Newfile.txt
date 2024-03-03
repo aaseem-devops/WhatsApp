@@ -1,2 +1,2 @@
 This is a sample file.
-This is added through Git Add command.
+This is added through Git Add command in develop branch.
